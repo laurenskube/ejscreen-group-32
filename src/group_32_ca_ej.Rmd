@@ -26,4 +26,4 @@ ggplot(data = ces, aes(x = white_percent, y = ces_3_0_score)) +
   scale_fill_gradient(low = "navy", high = "orange") +
   theme_minimal()
 ```
-
+As the percent of the population that is white increases, the CalEnviroScreen pollution burden scores tend to decrease, which represents a negative relationship between the two variables. This suggests that communities that are predominantly white bear less of the pollution burden as compared with communities that are less white.
